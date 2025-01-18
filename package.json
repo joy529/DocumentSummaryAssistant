@@ -1,0 +1,15 @@
+{
+  "name": "documentsummaryassistant",
+  "version": "1.0.0",
+  "description": "Document Summary Assistant is an application that takes any document (PDF/Image) and generates smart summaries.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "JOY",
+  "license": "ISC"
+}
+ 
